@@ -58,7 +58,6 @@ main {
     margin-bottom: 30px;
 }
 
-/* shared style end */
 
 
 
@@ -106,7 +105,6 @@ main {
 /* nav section end */
 
 /* banner section start */
-/* --------------------------------- */
 .banner-container {
     position: relative;
     margin: auto;
@@ -171,8 +169,9 @@ main {
 }
 
 /* banner section end */
-
 /* header section end */
+
+
 
 /* popular tour section start */
 .popular-tour-container {
@@ -210,10 +209,10 @@ main {
     width: 400px;
 }
 
-/* popular tour section end */
+
+
 
 /* Choose Your Destination section start */
-
 .img1 {
     width: 50%;
 }
@@ -257,7 +256,7 @@ main {
     margin-bottom: 70px;
 }
 
-/* Choose Your Destination section end */
+
 
 /* why choose us section start */
 .chooseus-container {
@@ -286,7 +285,7 @@ main {
 }
 
 
-/* why choose us section end */
+
 
 /* newsletter section start */
 
@@ -363,7 +362,6 @@ main {
     font-weight: 700;
 }
 
-/* newsletter section end */
 
 
 /* footer section start */
@@ -422,6 +420,10 @@ footer {
 }
 
 /* footer section end */
+
+
+
+
 
 /* Responsive layout */
 
@@ -493,11 +495,6 @@ footer {
 
 }
 
-/* Mobile device end*/
-
-
-
-
 /* tablet device start */
 
 @media screen and (min-width:601px) and (max-width:992px) {
@@ -535,4 +532,3 @@ footer {
     }
 }
 
-/* tablet device end */
