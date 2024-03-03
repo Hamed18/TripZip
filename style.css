@@ -83,7 +83,7 @@ main {
 }
 
 .nav-title {
-    font-size: 2.50rem;
+    font-size: 1.5rem;
     font-weight: 800;
     color: #131313;
 }
@@ -102,7 +102,6 @@ main {
     color: #131313;
 }
 
-/* nav section end */
 
 /* banner section start */
 .banner-container {
@@ -257,9 +256,12 @@ main {
 }
 
 /* unique section */
-.box-12{
-	overflow-y : auto;
+
+.unique-img{
+	border-radius: 10px;
 }
+
+
 
 /* why choose us section start */
 .chooseus-container {
