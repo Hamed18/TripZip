@@ -256,7 +256,10 @@ main {
     margin-bottom: 70px;
 }
 
-
+/* unique section */
+.box-12{
+	overflow-y : auto;
+}
 
 /* why choose us section start */
 .chooseus-container {
